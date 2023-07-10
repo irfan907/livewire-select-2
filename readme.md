@@ -1,10 +1,12 @@
-# Pre Requisites
+# Select2 Livewire Component
+This is a reusable select2 livewire component built for a TALL stack application.
+## Pre Requisites
 * You have installed [livewire/livewire](https://github.com/livewire/livewire).
 * You have [alpine.js](https://alpinejs.dev/) scripts included in your project.
 
 * You have [select2](https://select2.org/) scripts included in your project.
 
-# Setup
+## Setup
 > **Note**
 > This does not support multiselect and defer updates.
 
