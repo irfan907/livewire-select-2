@@ -1,4 +1,4 @@
-# Select2 Livewire Component
+# Livewire Select2 Component
 This is a reusable select2 livewire component built for a TALL stack application.
 ## Pre Requisites
 * You have installed [livewire/livewire](https://github.com/livewire/livewire).
